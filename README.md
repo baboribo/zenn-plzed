@@ -1,0 +1,2 @@
+# zenn-plzed
+blog
